@@ -1,0 +1,2166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-04-22T12:56:42.972-04:00
+  initializedAtString: 2022-04-22T12:53:41.191-04:00
+  entries:
+  - path: 3D Explore Prototype.sln
+    fullPath: C:\Users\joshc\3D Explore Prototype\3D Explore Prototype.sln
+    projectPath: 3D Explore Prototype.sln
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene.cs
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Scripts\Scene.cs
+    projectPath: Assets\Scripts\Scene.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Scene.cs.meta
+    fullPath: C:\Users\joshc\3D Explore Prototype\Assets\Scripts\Scene.cs.meta
+    projectPath: Assets\Scripts\Scene.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    projectPath: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\03\036df440d5519980231bc81771938f97
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\03\036df440d5519980231bc81771938f97
+    projectPath: Library\Artifacts\03\036df440d5519980231bc81771938f97
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\04\0433e58bdef945dc528718dd5621994c
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\04\0433e58bdef945dc528718dd5621994c
+    projectPath: Library\Artifacts\04\0433e58bdef945dc528718dd5621994c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\05\055e453c5e74cf3681311e7daccc38a7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\05\055e453c5e74cf3681311e7daccc38a7
+    projectPath: Library\Artifacts\05\055e453c5e74cf3681311e7daccc38a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    projectPath: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\09e1ce4a7792f35210adf9b3fccab17c
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\09\09e1ce4a7792f35210adf9b3fccab17c
+    projectPath: Library\Artifacts\09\09e1ce4a7792f35210adf9b3fccab17c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0d\0d5c040043074945e248dce218632d1c
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\0d\0d5c040043074945e248dce218632d1c
+    projectPath: Library\Artifacts\0d\0d5c040043074945e248dce218632d1c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0e\0e91b43955ac4a92f7f089e1812f686b
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\0e\0e91b43955ac4a92f7f089e1812f686b
+    projectPath: Library\Artifacts\0e\0e91b43955ac4a92f7f089e1812f686b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0f\0f7530c7116bd05f0e6c019a2eb78ee1
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\0f\0f7530c7116bd05f0e6c019a2eb78ee1
+    projectPath: Library\Artifacts\0f\0f7530c7116bd05f0e6c019a2eb78ee1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\10\10a92f1bf485f7f83e3131c409c52cf1
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\10\10a92f1bf485f7f83e3131c409c52cf1
+    projectPath: Library\Artifacts\10\10a92f1bf485f7f83e3131c409c52cf1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\11\1191ee514515e70bb56f48399bb228f8
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\11\1191ee514515e70bb56f48399bb228f8
+    projectPath: Library\Artifacts\11\1191ee514515e70bb56f48399bb228f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\12\12f43cbaa2737e51da5034e4015b8651
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\12\12f43cbaa2737e51da5034e4015b8651
+    projectPath: Library\Artifacts\12\12f43cbaa2737e51da5034e4015b8651
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\13\134e4a481caf4d5263fd91681a45dcd3
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\13\134e4a481caf4d5263fd91681a45dcd3
+    projectPath: Library\Artifacts\13\134e4a481caf4d5263fd91681a45dcd3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\13\13700f793773a783be588713869a95db
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\13\13700f793773a783be588713869a95db
+    projectPath: Library\Artifacts\13\13700f793773a783be588713869a95db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\16\16689d60bddba2e56c8b2e5f56cdcdc0
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\16\16689d60bddba2e56c8b2e5f56cdcdc0
+    projectPath: Library\Artifacts\16\16689d60bddba2e56c8b2e5f56cdcdc0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\16\16e5dc847152085b50380ab35ae76f90
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\16\16e5dc847152085b50380ab35ae76f90
+    projectPath: Library\Artifacts\16\16e5dc847152085b50380ab35ae76f90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\18\1800bd77192f11748139e377de312797
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\18\1800bd77192f11748139e377de312797
+    projectPath: Library\Artifacts\18\1800bd77192f11748139e377de312797
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1a\1a10619c31cb5076758184935f5add1f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\1a\1a10619c31cb5076758184935f5add1f
+    projectPath: Library\Artifacts\1a\1a10619c31cb5076758184935f5add1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1e\1ed7683aeaf47b5f468b578ef7a9ce9e
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\1e\1ed7683aeaf47b5f468b578ef7a9ce9e
+    projectPath: Library\Artifacts\1e\1ed7683aeaf47b5f468b578ef7a9ce9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\21\21955d0c64e661dfae682b9523c46714
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\21\21955d0c64e661dfae682b9523c46714
+    projectPath: Library\Artifacts\21\21955d0c64e661dfae682b9523c46714
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\23\23a9ac3c11536951f9c53bd76d0c2252
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\23\23a9ac3c11536951f9c53bd76d0c2252
+    projectPath: Library\Artifacts\23\23a9ac3c11536951f9c53bd76d0c2252
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\29\29c816cacdad51b85148a10a54c02ba7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\29\29c816cacdad51b85148a10a54c02ba7
+    projectPath: Library\Artifacts\29\29c816cacdad51b85148a10a54c02ba7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2b\2bd216e3f3d69d1bd0830f8e7f8670c9
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\2b\2bd216e3f3d69d1bd0830f8e7f8670c9
+    projectPath: Library\Artifacts\2b\2bd216e3f3d69d1bd0830f8e7f8670c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2c\2cdb4bb4b768c482a99128885917b160
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\2c\2cdb4bb4b768c482a99128885917b160
+    projectPath: Library\Artifacts\2c\2cdb4bb4b768c482a99128885917b160
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\35\3584d8c18ed02d408f7482b3ee441c5f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\35\3584d8c18ed02d408f7482b3ee441c5f
+    projectPath: Library\Artifacts\35\3584d8c18ed02d408f7482b3ee441c5f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\37\370570bd3e0da7a3c5154a45d62c58bd
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\37\370570bd3e0da7a3c5154a45d62c58bd
+    projectPath: Library\Artifacts\37\370570bd3e0da7a3c5154a45d62c58bd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\37\3775b11311cf23a4a7ff894594242d79
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\37\3775b11311cf23a4a7ff894594242d79
+    projectPath: Library\Artifacts\37\3775b11311cf23a4a7ff894594242d79
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\37\37cd65e2d5f1946a09c26af49cc16c1c
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\37\37cd65e2d5f1946a09c26af49cc16c1c
+    projectPath: Library\Artifacts\37\37cd65e2d5f1946a09c26af49cc16c1c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\39\39d896e9237cdd38936b7ac8a6890b53
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\39\39d896e9237cdd38936b7ac8a6890b53
+    projectPath: Library\Artifacts\39\39d896e9237cdd38936b7ac8a6890b53
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3a\3adb2f57474ef5d77dbc946b2c402ff3
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\3a\3adb2f57474ef5d77dbc946b2c402ff3
+    projectPath: Library\Artifacts\3a\3adb2f57474ef5d77dbc946b2c402ff3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3c\3c7a414cd76094606955c7ed8609d45a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\3c\3c7a414cd76094606955c7ed8609d45a
+    projectPath: Library\Artifacts\3c\3c7a414cd76094606955c7ed8609d45a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3d\3d4ab9712817634f78d19aac9f7d48e7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\3d\3d4ab9712817634f78d19aac9f7d48e7
+    projectPath: Library\Artifacts\3d\3d4ab9712817634f78d19aac9f7d48e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\43\43674aea57073d9b98f13c43150cc038
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\43\43674aea57073d9b98f13c43150cc038
+    projectPath: Library\Artifacts\43\43674aea57073d9b98f13c43150cc038
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\43\43a7a67934c44be645255b4fc899395d
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\43\43a7a67934c44be645255b4fc899395d
+    projectPath: Library\Artifacts\43\43a7a67934c44be645255b4fc899395d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\46\46022d71ee4d490c3061fd7c6ea2089e
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\46\46022d71ee4d490c3061fd7c6ea2089e
+    projectPath: Library\Artifacts\46\46022d71ee4d490c3061fd7c6ea2089e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\46\46edd0689391e6ea6154c982fd41f4a6
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\46\46edd0689391e6ea6154c982fd41f4a6
+    projectPath: Library\Artifacts\46\46edd0689391e6ea6154c982fd41f4a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4a\4ae8fb9059e203f29a24473b39137005
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\4a\4ae8fb9059e203f29a24473b39137005
+    projectPath: Library\Artifacts\4a\4ae8fb9059e203f29a24473b39137005
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4b\4b426c7dd65e538d2f361863010644ca
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\4b\4b426c7dd65e538d2f361863010644ca
+    projectPath: Library\Artifacts\4b\4b426c7dd65e538d2f361863010644ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4c\4cd39197d55dd2eb7d0709e93fcd8ed8
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\4c\4cd39197d55dd2eb7d0709e93fcd8ed8
+    projectPath: Library\Artifacts\4c\4cd39197d55dd2eb7d0709e93fcd8ed8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4d\4d35c54a87792572eae10149e612c2d6
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\4d\4d35c54a87792572eae10149e612c2d6
+    projectPath: Library\Artifacts\4d\4d35c54a87792572eae10149e612c2d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\50\50d6119993b3743941d013b65a457b77
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\50\50d6119993b3743941d013b65a457b77
+    projectPath: Library\Artifacts\50\50d6119993b3743941d013b65a457b77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\51\5135554ee4b16473fcb4de8e56e7e61c
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\51\5135554ee4b16473fcb4de8e56e7e61c
+    projectPath: Library\Artifacts\51\5135554ee4b16473fcb4de8e56e7e61c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\51\5176a2b30d7618bbc5788f57d14079b5
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\51\5176a2b30d7618bbc5788f57d14079b5
+    projectPath: Library\Artifacts\51\5176a2b30d7618bbc5788f57d14079b5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\53\53107d297522da704d3389bcf1f517da
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\53\53107d297522da704d3389bcf1f517da
+    projectPath: Library\Artifacts\53\53107d297522da704d3389bcf1f517da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\54\546d7ef7c43cdd451055a99e71dac594
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\54\546d7ef7c43cdd451055a99e71dac594
+    projectPath: Library\Artifacts\54\546d7ef7c43cdd451055a99e71dac594
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\54\54f55ade0d9ae3e837829bb809b9648f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\54\54f55ade0d9ae3e837829bb809b9648f
+    projectPath: Library\Artifacts\54\54f55ade0d9ae3e837829bb809b9648f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\57\57890c588a1d77348e29a29e1841e1d8
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\57\57890c588a1d77348e29a29e1841e1d8
+    projectPath: Library\Artifacts\57\57890c588a1d77348e29a29e1841e1d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\57\57e98106bb7ef20d8291cfbc07e4b1d4
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\57\57e98106bb7ef20d8291cfbc07e4b1d4
+    projectPath: Library\Artifacts\57\57e98106bb7ef20d8291cfbc07e4b1d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\58\58a9fe7304064ff1c0e9765230773593
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\58\58a9fe7304064ff1c0e9765230773593
+    projectPath: Library\Artifacts\58\58a9fe7304064ff1c0e9765230773593
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\58\58f0dc1f8256f78defcacfa327732949
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\58\58f0dc1f8256f78defcacfa327732949
+    projectPath: Library\Artifacts\58\58f0dc1f8256f78defcacfa327732949
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5a\5acee6114ae4c5722400cce59c490279
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\5a\5acee6114ae4c5722400cce59c490279
+    projectPath: Library\Artifacts\5a\5acee6114ae4c5722400cce59c490279
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5f\5f029e2dba8f5833ccaa86bb283b5f85
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\5f\5f029e2dba8f5833ccaa86bb283b5f85
+    projectPath: Library\Artifacts\5f\5f029e2dba8f5833ccaa86bb283b5f85
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5f\5f7916cee7afbb7a67caede1fb4430c9
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\5f\5f7916cee7afbb7a67caede1fb4430c9
+    projectPath: Library\Artifacts\5f\5f7916cee7afbb7a67caede1fb4430c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\60\606bd0699669aaa0e3a3ea9153a5b4df
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\60\606bd0699669aaa0e3a3ea9153a5b4df
+    projectPath: Library\Artifacts\60\606bd0699669aaa0e3a3ea9153a5b4df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\60\60885daa0b0a46fde151d77df2acb523
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\60\60885daa0b0a46fde151d77df2acb523
+    projectPath: Library\Artifacts\60\60885daa0b0a46fde151d77df2acb523
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    projectPath: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\61de6fce1083787f43cfc36a6c882531
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\61\61de6fce1083787f43cfc36a6c882531
+    projectPath: Library\Artifacts\61\61de6fce1083787f43cfc36a6c882531
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\66\66a679c48bf47741192e182f00d36bee
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\66\66a679c48bf47741192e182f00d36bee
+    projectPath: Library\Artifacts\66\66a679c48bf47741192e182f00d36bee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    projectPath: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\68\6892c4ba5df0fcdf8cc4a8b5c0b4129b
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\68\6892c4ba5df0fcdf8cc4a8b5c0b4129b
+    projectPath: Library\Artifacts\68\6892c4ba5df0fcdf8cc4a8b5c0b4129b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\69\690738509747e99d9126f2ec1c993eec
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\69\690738509747e99d9126f2ec1c993eec
+    projectPath: Library\Artifacts\69\690738509747e99d9126f2ec1c993eec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6a9ba508f9905b5754101439f50ce482
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\6a\6a9ba508f9905b5754101439f50ce482
+    projectPath: Library\Artifacts\6a\6a9ba508f9905b5754101439f50ce482
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
+    projectPath: Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d53f30675bd043b3c79e20ea0e964ad
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\6d\6d53f30675bd043b3c79e20ea0e964ad
+    projectPath: Library\Artifacts\6d\6d53f30675bd043b3c79e20ea0e964ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6d\6d618863d6fe3848b0759ab684eef306
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\6d\6d618863d6fe3848b0759ab684eef306
+    projectPath: Library\Artifacts\6d\6d618863d6fe3848b0759ab684eef306
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6d\6dfe374d3b592bb262f51710b26dfd3f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\6d\6dfe374d3b592bb262f51710b26dfd3f
+    projectPath: Library\Artifacts\6d\6dfe374d3b592bb262f51710b26dfd3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6e\6e5c1e57cb412f21082ebe4922e1d19a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\6e\6e5c1e57cb412f21082ebe4922e1d19a
+    projectPath: Library\Artifacts\6e\6e5c1e57cb412f21082ebe4922e1d19a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6f\6ff6e4e687b57a0659ba930fa3fd7331
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\6f\6ff6e4e687b57a0659ba930fa3fd7331
+    projectPath: Library\Artifacts\6f\6ff6e4e687b57a0659ba930fa3fd7331
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\71\7142374ce024f0d94aaed9849658e5d8
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\71\7142374ce024f0d94aaed9849658e5d8
+    projectPath: Library\Artifacts\71\7142374ce024f0d94aaed9849658e5d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\71\71923e3c7cbffad49475e867db576ad4
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\71\71923e3c7cbffad49475e867db576ad4
+    projectPath: Library\Artifacts\71\71923e3c7cbffad49475e867db576ad4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\71\71cf064ff803272e43efde71d789d239
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\71\71cf064ff803272e43efde71d789d239
+    projectPath: Library\Artifacts\71\71cf064ff803272e43efde71d789d239
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\72\7241a90f0d8ae2a3b94f8e43a9770a5a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\72\7241a90f0d8ae2a3b94f8e43a9770a5a
+    projectPath: Library\Artifacts\72\7241a90f0d8ae2a3b94f8e43a9770a5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\73\7309e4301afff90a0dd5d22c96520df1
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\73\7309e4301afff90a0dd5d22c96520df1
+    projectPath: Library\Artifacts\73\7309e4301afff90a0dd5d22c96520df1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\73\737638aa78402f830fe6969042c10e18
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\73\737638aa78402f830fe6969042c10e18
+    projectPath: Library\Artifacts\73\737638aa78402f830fe6969042c10e18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\74\7450e8879eb2a1cc179365867a29621a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\74\7450e8879eb2a1cc179365867a29621a
+    projectPath: Library\Artifacts\74\7450e8879eb2a1cc179365867a29621a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\74\74af72e7fdee3876e657a95043ebfde6
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\74\74af72e7fdee3876e657a95043ebfde6
+    projectPath: Library\Artifacts\74\74af72e7fdee3876e657a95043ebfde6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    projectPath: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\77a509da2bbe923951924599e8c06679
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\77\77a509da2bbe923951924599e8c06679
+    projectPath: Library\Artifacts\77\77a509da2bbe923951924599e8c06679
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\79\7935afcf5bd006b66c4436be8da2b2fd
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\79\7935afcf5bd006b66c4436be8da2b2fd
+    projectPath: Library\Artifacts\79\7935afcf5bd006b66c4436be8da2b2fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7a\7ae9d6931a9477fb14142ee73c88cc2e
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\7a\7ae9d6931a9477fb14142ee73c88cc2e
+    projectPath: Library\Artifacts\7a\7ae9d6931a9477fb14142ee73c88cc2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7d\7d02e07d81bfb991c05c328d48450526
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\7d\7d02e07d81bfb991c05c328d48450526
+    projectPath: Library\Artifacts\7d\7d02e07d81bfb991c05c328d48450526
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7e\7e7a86eaa5502cf9d65b1e9dcddff47e
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\7e\7e7a86eaa5502cf9d65b1e9dcddff47e
+    projectPath: Library\Artifacts\7e\7e7a86eaa5502cf9d65b1e9dcddff47e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7f\7fa3e7a51fa8b154450c75d885cc48bc
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\7f\7fa3e7a51fa8b154450c75d885cc48bc
+    projectPath: Library\Artifacts\7f\7fa3e7a51fa8b154450c75d885cc48bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\80\8019c68a3645525c6b9755c2d0070b04
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\80\8019c68a3645525c6b9755c2d0070b04
+    projectPath: Library\Artifacts\80\8019c68a3645525c6b9755c2d0070b04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    projectPath: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\8124b8900115d879e912dd4a98f3b13e
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\81\8124b8900115d879e912dd4a98f3b13e
+    projectPath: Library\Artifacts\81\8124b8900115d879e912dd4a98f3b13e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\81\81d952961b5ec86cd8f85e2cd8f253de
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\81\81d952961b5ec86cd8f85e2cd8f253de
+    projectPath: Library\Artifacts\81\81d952961b5ec86cd8f85e2cd8f253de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    projectPath: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\84cf80c2244eef787973993745ed434f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\84\84cf80c2244eef787973993745ed434f
+    projectPath: Library\Artifacts\84\84cf80c2244eef787973993745ed434f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\88\88c68c517c62fccc59c29b7133619537
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\88\88c68c517c62fccc59c29b7133619537
+    projectPath: Library\Artifacts\88\88c68c517c62fccc59c29b7133619537
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\88\88f4e3538aa485a58be94403178b0f06
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\88\88f4e3538aa485a58be94403178b0f06
+    projectPath: Library\Artifacts\88\88f4e3538aa485a58be94403178b0f06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8a\8a369bf432b246ccf83d8c9b0e9a6961
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\8a\8a369bf432b246ccf83d8c9b0e9a6961
+    projectPath: Library\Artifacts\8a\8a369bf432b246ccf83d8c9b0e9a6961
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    projectPath: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8cea69fcfbdb4b797495287e16ae3215
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\8c\8cea69fcfbdb4b797495287e16ae3215
+    projectPath: Library\Artifacts\8c\8cea69fcfbdb4b797495287e16ae3215
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8d\8dc7a3e7584cf79043e47688c594514a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\8d\8dc7a3e7584cf79043e47688c594514a
+    projectPath: Library\Artifacts\8d\8dc7a3e7584cf79043e47688c594514a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8f\8f53e37d6f25b14620d60aad7c2156a7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\8f\8f53e37d6f25b14620d60aad7c2156a7
+    projectPath: Library\Artifacts\8f\8f53e37d6f25b14620d60aad7c2156a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\90\903079d0f80a80678932778487c61ab9
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\90\903079d0f80a80678932778487c61ab9
+    projectPath: Library\Artifacts\90\903079d0f80a80678932778487c61ab9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\90\90390f2f68d849de4baed31fa500a5e9
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\90\90390f2f68d849de4baed31fa500a5e9
+    projectPath: Library\Artifacts\90\90390f2f68d849de4baed31fa500a5e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\90\90dd78b8e234ea7833b889c764c88887
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\90\90dd78b8e234ea7833b889c764c88887
+    projectPath: Library\Artifacts\90\90dd78b8e234ea7833b889c764c88887
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\92\923ac6b2c057c43dc0638233fbc4ebec
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\92\923ac6b2c057c43dc0638233fbc4ebec
+    projectPath: Library\Artifacts\92\923ac6b2c057c43dc0638233fbc4ebec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\92\92a86045cdae68c3f4738db085d5b4ca
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\92\92a86045cdae68c3f4738db085d5b4ca
+    projectPath: Library\Artifacts\92\92a86045cdae68c3f4738db085d5b4ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\94\94c3eb8bb6b37c368fa3ec34f69a375b
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\94\94c3eb8bb6b37c368fa3ec34f69a375b
+    projectPath: Library\Artifacts\94\94c3eb8bb6b37c368fa3ec34f69a375b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\95\9526afbe69d041c2da047857e88c7592
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\95\9526afbe69d041c2da047857e88c7592
+    projectPath: Library\Artifacts\95\9526afbe69d041c2da047857e88c7592
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\95\954935e43995bc198f73e8e6639567f2
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\95\954935e43995bc198f73e8e6639567f2
+    projectPath: Library\Artifacts\95\954935e43995bc198f73e8e6639567f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\96\96db9be340b887bc52d2c8fb3e4a6d6c
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\96\96db9be340b887bc52d2c8fb3e4a6d6c
+    projectPath: Library\Artifacts\96\96db9be340b887bc52d2c8fb3e4a6d6c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\99\9971943d749925ddd01b6825045c7713
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\99\9971943d749925ddd01b6825045c7713
+    projectPath: Library\Artifacts\99\9971943d749925ddd01b6825045c7713
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    projectPath: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9bbc2285cedf5bec85bd0514b05a0c54
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\9b\9bbc2285cedf5bec85bd0514b05a0c54
+    projectPath: Library\Artifacts\9b\9bbc2285cedf5bec85bd0514b05a0c54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9c\9c2d5ec27d97570cad67ad7ea5ec0bcb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\9c\9c2d5ec27d97570cad67ad7ea5ec0bcb
+    projectPath: Library\Artifacts\9c\9c2d5ec27d97570cad67ad7ea5ec0bcb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9d\9d47a4bd58e8919917e6b72e41ecdd4d
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\9d\9d47a4bd58e8919917e6b72e41ecdd4d
+    projectPath: Library\Artifacts\9d\9d47a4bd58e8919917e6b72e41ecdd4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9e\9e6dfee915acb8aeedb19134fd2ab0d9
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\9e\9e6dfee915acb8aeedb19134fd2ab0d9
+    projectPath: Library\Artifacts\9e\9e6dfee915acb8aeedb19134fd2ab0d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9e\9ebc4d1b355c4b0eb0f720afd7d77884
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\9e\9ebc4d1b355c4b0eb0f720afd7d77884
+    projectPath: Library\Artifacts\9e\9ebc4d1b355c4b0eb0f720afd7d77884
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a0\a0e755c91e3638a6eafa7c5a8f5946e7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\a0\a0e755c91e3638a6eafa7c5a8f5946e7
+    projectPath: Library\Artifacts\a0\a0e755c91e3638a6eafa7c5a8f5946e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a2\a2c6347885f81974629d681691486cdf
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\a2\a2c6347885f81974629d681691486cdf
+    projectPath: Library\Artifacts\a2\a2c6347885f81974629d681691486cdf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a2\a2c8fa901ea8c08e1659b74840cb840a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\a2\a2c8fa901ea8c08e1659b74840cb840a
+    projectPath: Library\Artifacts\a2\a2c8fa901ea8c08e1659b74840cb840a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a8\a8442c23179e86d5a60e9dc261c227bb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\a8\a8442c23179e86d5a60e9dc261c227bb
+    projectPath: Library\Artifacts\a8\a8442c23179e86d5a60e9dc261c227bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a9\a9317d39489a50648721f78b0ebb6eb0
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\a9\a9317d39489a50648721f78b0ebb6eb0
+    projectPath: Library\Artifacts\a9\a9317d39489a50648721f78b0ebb6eb0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ab\ab37205fa6a4118db6719f2a77250fad
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\ab\ab37205fa6a4118db6719f2a77250fad
+    projectPath: Library\Artifacts\ab\ab37205fa6a4118db6719f2a77250fad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ab\abbe999ddb830f86ea539def1f64f7d3
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\ab\abbe999ddb830f86ea539def1f64f7d3
+    projectPath: Library\Artifacts\ab\abbe999ddb830f86ea539def1f64f7d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b1\b1f41d49e147c29476c2c08de07187ce
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\b1\b1f41d49e147c29476c2c08de07187ce
+    projectPath: Library\Artifacts\b1\b1f41d49e147c29476c2c08de07187ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b2\b2df12104c7d24e5362a853aaf79ae14
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\b2\b2df12104c7d24e5362a853aaf79ae14
+    projectPath: Library\Artifacts\b2\b2df12104c7d24e5362a853aaf79ae14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b3\b33adc118d0a5d1316ed29d0cd1d8c76
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\b3\b33adc118d0a5d1316ed29d0cd1d8c76
+    projectPath: Library\Artifacts\b3\b33adc118d0a5d1316ed29d0cd1d8c76
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    projectPath: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7be45344588726cbe5ef59aaf378e44
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\b7\b7be45344588726cbe5ef59aaf378e44
+    projectPath: Library\Artifacts\b7\b7be45344588726cbe5ef59aaf378e44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b9\b9a5a7673653b65573bcae1f9f2d571b
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\b9\b9a5a7673653b65573bcae1f9f2d571b
+    projectPath: Library\Artifacts\b9\b9a5a7673653b65573bcae1f9f2d571b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b9\b9b7acc7c21317c3f31a26f3434e81d7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\b9\b9b7acc7c21317c3f31a26f3434e81d7
+    projectPath: Library\Artifacts\b9\b9b7acc7c21317c3f31a26f3434e81d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ba\bab1bcfea37728b1f84d67590457638a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\ba\bab1bcfea37728b1f84d67590457638a
+    projectPath: Library\Artifacts\ba\bab1bcfea37728b1f84d67590457638a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    projectPath: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bdad365b18d62f274250a48f54d75232
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\bd\bdad365b18d62f274250a48f54d75232
+    projectPath: Library\Artifacts\bd\bdad365b18d62f274250a48f54d75232
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bf\bf8301727b2c33f14adcf066a620fd18
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\bf\bf8301727b2c33f14adcf066a620fd18
+    projectPath: Library\Artifacts\bf\bf8301727b2c33f14adcf066a620fd18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c1\c1f621a29a2691fcad655c2c4ad6bc2e
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\c1\c1f621a29a2691fcad655c2c4ad6bc2e
+    projectPath: Library\Artifacts\c1\c1f621a29a2691fcad655c2c4ad6bc2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c3\c3939de185ec87c56fc2c3b28436c5cb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\c3\c3939de185ec87c56fc2c3b28436c5cb
+    projectPath: Library\Artifacts\c3\c3939de185ec87c56fc2c3b28436c5cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c5\c540f36489a49ac39f699442cb9d57f3
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\c5\c540f36489a49ac39f699442cb9d57f3
+    projectPath: Library\Artifacts\c5\c540f36489a49ac39f699442cb9d57f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c6\c66a0246d2b9410d4709e8de04d1568a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\c6\c66a0246d2b9410d4709e8de04d1568a
+    projectPath: Library\Artifacts\c6\c66a0246d2b9410d4709e8de04d1568a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    projectPath: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\cac62be1a9c6a1563c8e3724ba001b76
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\ca\cac62be1a9c6a1563c8e3724ba001b76
+    projectPath: Library\Artifacts\ca\cac62be1a9c6a1563c8e3724ba001b76
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cb\cbf61ff89cd0f9401b4731e3ec95e3ee
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\cb\cbf61ff89cd0f9401b4731e3ec95e3ee
+    projectPath: Library\Artifacts\cb\cbf61ff89cd0f9401b4731e3ec95e3ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    projectPath: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cca66628143c57eaba737e8aa98ceb66
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\cc\cca66628143c57eaba737e8aa98ceb66
+    projectPath: Library\Artifacts\cc\cca66628143c57eaba737e8aa98ceb66
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d0\d0a6925ce9329cba55e712b17359c77b
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\d0\d0a6925ce9329cba55e712b17359c77b
+    projectPath: Library\Artifacts\d0\d0a6925ce9329cba55e712b17359c77b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d1\d161a92fbf2186550e3bf9b38570df06
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\d1\d161a92fbf2186550e3bf9b38570df06
+    projectPath: Library\Artifacts\d1\d161a92fbf2186550e3bf9b38570df06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    projectPath: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d2\d20e6569ee9bb47fd8de60d0fc85622e
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\d2\d20e6569ee9bb47fd8de60d0fc85622e
+    projectPath: Library\Artifacts\d2\d20e6569ee9bb47fd8de60d0fc85622e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d91b4ce65e993f18e53331827a80146a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\d9\d91b4ce65e993f18e53331827a80146a
+    projectPath: Library\Artifacts\d9\d91b4ce65e993f18e53331827a80146a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d9\d96d0fc07cdd98f5d32305dc051cad53
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\d9\d96d0fc07cdd98f5d32305dc051cad53
+    projectPath: Library\Artifacts\d9\d96d0fc07cdd98f5d32305dc051cad53
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\da\da8bc4ea9dca26a79e6b32e6e9d46cc3
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\da\da8bc4ea9dca26a79e6b32e6e9d46cc3
+    projectPath: Library\Artifacts\da\da8bc4ea9dca26a79e6b32e6e9d46cc3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\db\db414ed7c280b19430c6114d62ad1f26
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\db\db414ed7c280b19430c6114d62ad1f26
+    projectPath: Library\Artifacts\db\db414ed7c280b19430c6114d62ad1f26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\dd\ddb1b8eed6bc6c8998dfd23b9be91080
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\dd\ddb1b8eed6bc6c8998dfd23b9be91080
+    projectPath: Library\Artifacts\dd\ddb1b8eed6bc6c8998dfd23b9be91080
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e0\e076a71d69381292f986d47c1f0aa0f2
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e0\e076a71d69381292f986d47c1f0aa0f2
+    projectPath: Library\Artifacts\e0\e076a71d69381292f986d47c1f0aa0f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e1cbc791a4249937680366b31ed66451
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e1\e1cbc791a4249937680366b31ed66451
+    projectPath: Library\Artifacts\e1\e1cbc791a4249937680366b31ed66451
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e3\e3828dd3a363acb8426827c5e1bbf1e2
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e3\e3828dd3a363acb8426827c5e1bbf1e2
+    projectPath: Library\Artifacts\e3\e3828dd3a363acb8426827c5e1bbf1e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e4\e40708b52b71b071676014b2c44ab7b0
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e4\e40708b52b71b071676014b2c44ab7b0
+    projectPath: Library\Artifacts\e4\e40708b52b71b071676014b2c44ab7b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e5\e542ae1021958c81fe3244d4c260c834
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e5\e542ae1021958c81fe3244d4c260c834
+    projectPath: Library\Artifacts\e5\e542ae1021958c81fe3244d4c260c834
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e7\e7d64b819befcaba84ae707d1f904afc
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e7\e7d64b819befcaba84ae707d1f904afc
+    projectPath: Library\Artifacts\e7\e7d64b819befcaba84ae707d1f904afc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    projectPath: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f47a365e98844439c65ec96e6ef94ce3
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\f4\f47a365e98844439c65ec96e6ef94ce3
+    projectPath: Library\Artifacts\f4\f47a365e98844439c65ec96e6ef94ce3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f5\f53fe9c75cc51d91db65b8992561b7d7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\f5\f53fe9c75cc51d91db65b8992561b7d7
+    projectPath: Library\Artifacts\f5\f53fe9c75cc51d91db65b8992561b7d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f7\f7a447dcc08c1f07d79fb5ff37028940
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\f7\f7a447dcc08c1f07d79fb5ff37028940
+    projectPath: Library\Artifacts\f7\f7a447dcc08c1f07d79fb5ff37028940
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    projectPath: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f9e82c7dd5aee5fdfc1a40f10fee3801
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\f9\f9e82c7dd5aee5fdfc1a40f10fee3801
+    projectPath: Library\Artifacts\f9\f9e82c7dd5aee5fdfc1a40f10fee3801
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    projectPath: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\faac2554a784f144a8918007483c9d7d
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\fa\faac2554a784f144a8918007483c9d7d
+    projectPath: Library\Artifacts\fa\faac2554a784f144a8918007483c9d7d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fb\fbf7f5c6b2cacb3bfae366cd28175859
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\fb\fbf7f5c6b2cacb3bfae366cd28175859
+    projectPath: Library\Artifacts\fb\fbf7f5c6b2cacb3bfae366cd28175859
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fe\feee97866a61995370501cadde274ee7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\fe\feee97866a61995370501cadde274ee7
+    projectPath: Library\Artifacts\fe\feee97866a61995370501cadde274ee7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ff\ff77795db0b73da0a9f654c03320b83d
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\ff\ff77795db0b73da0a9f654c03320b83d
+    projectPath: Library\Artifacts\ff\ff77795db0b73da0a9f654c03320b83d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ff\ff8258d6a9c86e2cefc6fd3dbe8b1932
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\ff\ff8258d6a9c86e2cefc6fd3dbe8b1932
+    projectPath: Library\Artifacts\ff\ff8258d6a9c86e2cefc6fd3dbe8b1932
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageManager\ProjectCache
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\joshc\3D Explore Prototype\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\joshc\3D Explore Prototype\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\joshc\3D Explore Prototype\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\joshc\3D Explore Prototype\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\joshc\3D Explore Prototype\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: README.md
+    fullPath: C:\Users\joshc\3D Explore Prototype\README.md
+    projectPath: README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Screenshot1.png
+    fullPath: C:\Users\joshc\3D Explore Prototype\Screenshot1.png
+    projectPath: Screenshot1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Screenshot2.png
+    fullPath: C:\Users\joshc\3D Explore Prototype\Screenshot2.png
+    projectPath: Screenshot2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Assembly-CSharp.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\CompilationLog.txt
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.PlasticSCM.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Rider.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Services.Core.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.Services.Core.Editor.dll.hash
+    projectPath: Temp\Unity.Services.Core.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.UI.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.UI.dll.hash
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-037a7dbec907e4e4abef3f8e73171750
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-037a7dbec907e4e4abef3f8e73171750
+    projectPath: Temp\UnityTempFile-037a7dbec907e4e4abef3f8e73171750
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-07083dd0c477f3a40af3aa14dc4cf55a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-07083dd0c477f3a40af3aa14dc4cf55a
+    projectPath: Temp\UnityTempFile-07083dd0c477f3a40af3aa14dc4cf55a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-082f86261c0d9c9479bac176209c1c03
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-082f86261c0d9c9479bac176209c1c03
+    projectPath: Temp\UnityTempFile-082f86261c0d9c9479bac176209c1c03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-107b0bb3dc3c4034caf3ed197dfaec2f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-107b0bb3dc3c4034caf3ed197dfaec2f
+    projectPath: Temp\UnityTempFile-107b0bb3dc3c4034caf3ed197dfaec2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-169ac06ea902c464ebb4c01941772a70
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-169ac06ea902c464ebb4c01941772a70
+    projectPath: Temp\UnityTempFile-169ac06ea902c464ebb4c01941772a70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1a1d45e98df1c5c488c89aff129647dd
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-1a1d45e98df1c5c488c89aff129647dd
+    projectPath: Temp\UnityTempFile-1a1d45e98df1c5c488c89aff129647dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1b40962b92c241946a6ee3b3c34a1b83
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-1b40962b92c241946a6ee3b3c34a1b83
+    projectPath: Temp\UnityTempFile-1b40962b92c241946a6ee3b3c34a1b83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1c017b25ddc76a3428f6d66e05285b21
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-1c017b25ddc76a3428f6d66e05285b21
+    projectPath: Temp\UnityTempFile-1c017b25ddc76a3428f6d66e05285b21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-24f72933b7173a742968f1c687e66753
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-24f72933b7173a742968f1c687e66753
+    projectPath: Temp\UnityTempFile-24f72933b7173a742968f1c687e66753
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2afaa2e8ac3cdaf47abd386a3f5247b7
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-2afaa2e8ac3cdaf47abd386a3f5247b7
+    projectPath: Temp\UnityTempFile-2afaa2e8ac3cdaf47abd386a3f5247b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2d17338ecc02d024b94ebe863a92e1fd
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-2d17338ecc02d024b94ebe863a92e1fd
+    projectPath: Temp\UnityTempFile-2d17338ecc02d024b94ebe863a92e1fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-344c7f9153790ec4e9824415ac000173
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-344c7f9153790ec4e9824415ac000173
+    projectPath: Temp\UnityTempFile-344c7f9153790ec4e9824415ac000173
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3a6b69c3e79c9b24188873cd914a8a5f
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-3a6b69c3e79c9b24188873cd914a8a5f
+    projectPath: Temp\UnityTempFile-3a6b69c3e79c9b24188873cd914a8a5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4ef1cf62c22c8a6479f18b41e2de694b
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-4ef1cf62c22c8a6479f18b41e2de694b
+    projectPath: Temp\UnityTempFile-4ef1cf62c22c8a6479f18b41e2de694b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-60f47143f6114554fa193543c6307c9a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-60f47143f6114554fa193543c6307c9a
+    projectPath: Temp\UnityTempFile-60f47143f6114554fa193543c6307c9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-79886fcbea09c0d4292a850b0a780ca8
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-79886fcbea09c0d4292a850b0a780ca8
+    projectPath: Temp\UnityTempFile-79886fcbea09c0d4292a850b0a780ca8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7c9cb9ba5f4f6c34aada9a0efccca4fa
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-7c9cb9ba5f4f6c34aada9a0efccca4fa
+    projectPath: Temp\UnityTempFile-7c9cb9ba5f4f6c34aada9a0efccca4fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7f2980bb3267bb449835829ff7eba5a8
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-7f2980bb3267bb449835829ff7eba5a8
+    projectPath: Temp\UnityTempFile-7f2980bb3267bb449835829ff7eba5a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7f627ce52fc544648aa5883c2d7b2c57
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-7f627ce52fc544648aa5883c2d7b2c57
+    projectPath: Temp\UnityTempFile-7f627ce52fc544648aa5883c2d7b2c57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8746762bc84bc764b9910356f4f8bb44
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-8746762bc84bc764b9910356f4f8bb44
+    projectPath: Temp\UnityTempFile-8746762bc84bc764b9910356f4f8bb44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9091928db4dbcf4408573927435641ca
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-9091928db4dbcf4408573927435641ca
+    projectPath: Temp\UnityTempFile-9091928db4dbcf4408573927435641ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a4c2acc7b8e9b5148b850aa8b2f895e6
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-a4c2acc7b8e9b5148b850aa8b2f895e6
+    projectPath: Temp\UnityTempFile-a4c2acc7b8e9b5148b850aa8b2f895e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b9fed2b3161227a4f8ccbf7662e61337
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-b9fed2b3161227a4f8ccbf7662e61337
+    projectPath: Temp\UnityTempFile-b9fed2b3161227a4f8ccbf7662e61337
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bd8b361cb6dda4548a29934ef36a255c
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-bd8b361cb6dda4548a29934ef36a255c
+    projectPath: Temp\UnityTempFile-bd8b361cb6dda4548a29934ef36a255c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-beb2d2c1a2a646f4a96874519cf332db
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-beb2d2c1a2a646f4a96874519cf332db
+    projectPath: Temp\UnityTempFile-beb2d2c1a2a646f4a96874519cf332db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c8028cac60d34e5428a6ec4bf48b949a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-c8028cac60d34e5428a6ec4bf48b949a
+    projectPath: Temp\UnityTempFile-c8028cac60d34e5428a6ec4bf48b949a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c8c8c3d02065d4a4ab1b587c8ba39d41
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-c8c8c3d02065d4a4ab1b587c8ba39d41
+    projectPath: Temp\UnityTempFile-c8c8c3d02065d4a4ab1b587c8ba39d41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cbdd6d228dbe8a0449e790e7d3d7bec1
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-cbdd6d228dbe8a0449e790e7d3d7bec1
+    projectPath: Temp\UnityTempFile-cbdd6d228dbe8a0449e790e7d3d7bec1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cf453a8cbace42b4a96e9962a8691a22
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-cf453a8cbace42b4a96e9962a8691a22
+    projectPath: Temp\UnityTempFile-cf453a8cbace42b4a96e9962a8691a22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-de99df6f15243ff47880f62d8ef95c34
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-de99df6f15243ff47880f62d8ef95c34
+    projectPath: Temp\UnityTempFile-de99df6f15243ff47880f62d8ef95c34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e48fbfd8422f1ed4b94d12ce2bb2351a
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-e48fbfd8422f1ed4b94d12ce2bb2351a
+    projectPath: Temp\UnityTempFile-e48fbfd8422f1ed4b94d12ce2bb2351a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f70cfc7fed62f7d448e554875fca4238
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-f70cfc7fed62f7d448e554875fca4238
+    projectPath: Temp\UnityTempFile-f70cfc7fed62f7d448e554875fca4238
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f76480e5c5ac57a41916cb314eaab8ef
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\UnityTempFile-f76480e5c5ac57a41916cb314eaab8ef
+    projectPath: Temp\UnityTempFile-f76480e5c5ac57a41916cb314eaab8ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\joshc\3D Explore Prototype\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
