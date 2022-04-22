@@ -2,7 +2,7 @@
 #### Joshua Culver
  Basic first person movement and interaction prototype in Unity
 
-The main purpose of this prototype was to explore some implementation for basic game in which the player would explore a 3D space and speak to NPCs or interact with objects using the Unity engine. In addition to exprimenting with a visual style as seen in screenshots below.
+The main purpose of this prototype was to explore some implementation for basic game in which the player would explore a 3D space and speak to NPCs or interact with objects using the Unity engine. In addition to exprimenting with a visual style as seen in screenshots.
 
 Some features:
 - Singleton game manager design
@@ -13,8 +13,5 @@ Some features:
 - Simple NavMesh navigation
 - Gray cylinders
 
-![Approaching and being approached by cylinders](/blob/main/Screenshot1.png)
-![Speaking to a gray cylinder](/blob/main/Screenshot2.png)
-
-[^1]: Thanks to **Unity in Action** by Joseph Hocking and [Brackeys on Youtube](https://www.youtube.com/watch?v=_nRzoTzeyxU) just for being good resources
+[^note]: Thanks to **Unity in Action** by Joseph Hocking and [Brackeys on Youtube](https://www.youtube.com/watch?v=_nRzoTzeyxU) just for being good resources
 
