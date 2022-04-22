@@ -13,5 +13,5 @@ Some features:
 - Simple NavMesh navigation
 - Gray cylinders
 
-[^note]: Thanks to **Unity in Action** by Joseph Hocking and [Brackeys on Youtube](https://www.youtube.com/watch?v=_nRzoTzeyxU) just for being good resources
+Thanks to **Unity in Action** by Joseph Hocking and [Brackeys on Youtube](https://www.youtube.com/watch?v=_nRzoTzeyxU) just for being good resources
 
