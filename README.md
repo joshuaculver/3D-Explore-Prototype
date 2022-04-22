@@ -1,5 +1,6 @@
 # 3D-Explore-Prototype
 #### Joshua Culver
+##### code can be found in assets/scripts
  Basic first person movement and interaction prototype in Unity
 
 The main purpose of this prototype was to explore some implementation for basic game in which the player would explore a 3D space and speak to NPCs or interact with objects using the Unity engine. In addition to exprimenting with a visual style as seen in screenshots.
